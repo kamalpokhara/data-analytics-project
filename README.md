@@ -48,7 +48,7 @@ A retail company wants to better understand customer purchasing behavior across 
 
 ## Dashboard Preview
 
-![Dashboard Overview](images/dashboard_overview1.png)
+![Dashboard Overview](images/dashboard_overview.png)
 
 ## Project Workflow
 
